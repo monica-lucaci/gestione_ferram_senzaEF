@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "Ferramenta_correzione.Controllers.ProdottoController",
+    "Method": "Delete",
+    "RelativePath": "Prodotto/elimina/{varCod}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCod",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ferramenta_correzione.Controllers.ProdottoController",
+    "Method": "ElencoProdottiFiltrati",
+    "RelativePath": "Prodotto/filtrati",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Ferramenta_correzione.Utils.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ferramenta_correzione.Controllers.ProdottoController",
+    "Method": "InserisciProdotto",
+    "RelativePath": "Prodotto/inserisci",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objProd",
+        "Type": "Ferramenta_correzione.DTO.ProdottoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Ferramenta_correzione.Utils.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Ferramenta_correzione.Controllers.ProdottoController",
+    "Method": "ElencoProdottiNonFiltrati",
+    "RelativePath": "Prodotto/nonfiltrati",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Ferramenta_correzione.Utils.Risposta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

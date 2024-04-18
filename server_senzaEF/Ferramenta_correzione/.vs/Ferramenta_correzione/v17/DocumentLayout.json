@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|c:\\users\\utente\\source\\repos\\ferramenta_correzione\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|solutionrelative:services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|c:\\users\\utente\\source\\repos\\ferramenta_correzione\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|solutionrelative:controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|c:\\users\\utente\\source\\repos\\ferramenta_correzione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|c:\\users\\utente\\source\\repos\\ferramenta_correzione\\repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|solutionrelative:repositories\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|c:\\users\\utente\\source\\repos\\ferramenta_correzione\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|solutionrelative:services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|c:\\users\\utente\\source\\repos\\ferramenta_correzione\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|solutionrelative:models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|c:\\users\\utente\\source\\repos\\ferramenta_correzione\\ferramenta_correzione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{932F03BE-742E-44DE-B008-71E9998DD4BA}|Ferramenta_correzione.csproj|solutionrelative:ferramenta_correzione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdottoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Services\\ProdottoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProdottoService.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Services\\ProdottoService.cs",
+              "RelativeToolTip": "Services\\ProdottoService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T08:09:52.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "Controllers\\ProdottoController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAUwGgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:59:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:21:55.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Repositories\\ProdottoRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Repositories\\ProdottoRepo.cs",
+              "RelativeToolTip": "Repositories\\ProdottoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:21:10.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Services\\IService.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Services\\IService.cs",
+              "RelativeToolTip": "Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:18:38.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ferramenta_correzione",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Ferramenta_correzione.csproj",
+              "RelativeDocumentMoniker": "Ferramenta_correzione.csproj",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Ferramenta_correzione.csproj",
+              "RelativeToolTip": "Ferramenta_correzione.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T10:03:20.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\Ferramenta_correzione\\Models\\Prodotto.cs",
+              "RelativeToolTip": "Models\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:52:10.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
